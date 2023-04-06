@@ -84,8 +84,8 @@ endmodule
 Output:
 # RTL realization
 ![Screenshot 2023-04-06 105142](https://user-images.githubusercontent.com/118708245/230279458-ac258e78-ffa5-4c4d-aa6f-a73c0430fbe8.png)
-![Uploading Screenshot 2023-04-06 105613.png…]()
-k
+
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
