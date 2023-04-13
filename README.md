@@ -85,6 +85,8 @@ Output:
 # RTL realization
 ![Screenshot 2023-04-06 105142](https://user-images.githubusercontent.com/118708245/230279458-ac258e78-ffa5-4c4d-aa6f-a73c0430fbe8.png)
 
+# WAVE Length
+![waveform](https://user-images.githubusercontent.com/118708245/231630580-b88b2543-14cd-4d53-8270-7b4358108232.png)
 
 
 Result:
